@@ -1,2 +1,0 @@
-#!/bin/bash
-find . -newer reference -type f | head --n10
