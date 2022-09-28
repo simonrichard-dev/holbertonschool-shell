@@ -1,2 +1,2 @@
 #!/bin/bash
-find . newer reference -type f | head -n 10
+find . newer reference -type f | tail -n 10
