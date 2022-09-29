@@ -22,3 +22,4 @@ script that writes into the file ls_cwd_content the result of the command ls -la
 21-reverse : script that reverse its input.
 22-users_and_homes : script that displays all users and their home directories, sorted by users.
 24-gifs : a script that lists all the files with a .gif extension in the current directory and all its sub-directories.
+23-empty_casks - command that finds all empty files and directories in the current directory and all sub-directories.
