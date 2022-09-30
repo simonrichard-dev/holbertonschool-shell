@@ -12,3 +12,4 @@ script that lists all local variables and environment variables, and functions.
 script that prints a number with two decimal places, followed by a new line.
 15-rot13 : script that encodes and decodes text using the rot13 encryption. Assume ASCII.
 16-odd - script that prints every other line from the input, starting with the first line.
+17-water_and_stir: cript that adds the two numbers stored in the environment variables WATER and STIR and prints the result.
