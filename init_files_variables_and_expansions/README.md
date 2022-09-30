@@ -10,3 +10,4 @@ script that lists all local variables and environment variables, and functions.
 11-binary_to_decimal : script that converts a number from base 2 to base 10.
 12-combinations : script that prints all possible combinations of two letters, except oo.
 script that prints a number with two decimal places, followed by a new line.
+15-rot13 : script that encodes and decodes text using the rot13 encryption. Assume ASCII.
